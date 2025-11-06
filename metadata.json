@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard de Impressoras",
+  "description": "Um painel moderno para monitorar o status de várias impressoras em tempo real, incluindo níveis de toner, contagem de páginas e status da rede.",
+  "requestFramePermissions": []
+}
